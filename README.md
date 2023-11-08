@@ -1,0 +1,1 @@
+# Wang - oświetlenie modelu.
